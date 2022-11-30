@@ -1,0 +1,52 @@
+
+[
+    {
+        "_id": 1,
+        "taskTitle" : "Buy a book.",
+        "date" : "Nov 24, 2022",
+        "isCompleted": "yes",
+        "isMostPriorty": "no"
+    },
+    {
+        "_id": 2,
+        "taskTitle" : "Buy a pen.",
+        "date" : "Nov 24, 2022",
+        "isCompleted": "yes",
+        "isMostPriorty": "no"
+    },
+    {
+        "_id": 3,
+        "taskTitle" : "Have to submit Assignment.",
+        "date" : "Jan 5, 2023",
+        "isCompleted": "no",
+        "isMostPriorty": "yes"
+    },
+    {
+        "_id": 4,
+        "taskTitle" : "Have to go my friend;s home.",
+        "date" : "Nov 25, 2022",
+        "isCompleted": "no",
+        "isMostPriorty": "yes"
+    },
+    {
+        "_id": 5,
+        "taskTitle" : "Buy a Note.",
+        "date" : "Jan 1, 2022",
+        "isCompleted": "no",
+        "isMostPriorty": "no"
+    },
+    {
+        "_id": 6,
+        "taskTitle" : "Buy a gift for my Mom.",
+        "date" : "Jan 1, 2022",
+        "isCompleted": "no",
+        "isMostPriorty": "yes"
+    },
+    {
+        "_id": 7,
+        "taskTitle" : "Have a football match.",
+        "date" : "Jan 3, 2022",
+        "isCompleted": "no",
+        "isMostPriorty": "no"
+    }
+]
