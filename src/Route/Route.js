@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
-import App from "../../App";
-import Main from "../../layout/Main";
-import TaskList from "../TaskList/TaskList";
+import App from "../App";
+import Main from "../layout/Main";
+import TaskList from "../Components/TaskList/TaskList";
 
 const router = createBrowserRouter([
 
